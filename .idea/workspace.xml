@@ -1,11 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5b9af7f-cc86-4bfd-b147-1f050afbf377" name="Default Changelist" comment="" />
+    <list default="true" id="b5b9af7f-cc86-4bfd-b147-1f050afbf377" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_arnx_wmf2svg_0_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_engio_mbassador_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_xmlgraphics_commons_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_docx4j_docx4j_JAXB_ReferenceImpl_11_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_docx4j_docx4j_core_11_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_docx4j_docx4j_openxml_objects_11_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_docx4j_docx4j_openxml_objects_pml_11_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_docx4j_docx4j_openxml_objects_sml_11_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_docx4j_org_apache_xalan_interpretive_11_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_docx4j_org_apache_xalan_serializer_11_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_angus_angus_activation_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_4_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_4_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_4_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_plutext_jaxb_svg11_11_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_2_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/qr/ContractController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/qr/Docx4jV11Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/qr/DocxTemplateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/template-docx4j-verified.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/template-docx4j-demo.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-docx4j-verified.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qr-api-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/qr-api-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/qr/QrApiJavaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/qr/QrApiJavaApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/qr/QrCodeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/qr/QrCodeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/qr/filter/LoggingWebFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/qr/filter/LoggingWebFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/qr-api-java-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/qr-api-java-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2uw5dvUdIjxffn8CRYpK93TtrEo" />
   <component name="ProjectViewState">
@@ -19,12 +85,34 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\study\qr_webflux\qr_api" />
+      <recent name="E:\study\qr_webflux\qr_api\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.qr" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\study\qr_webflux\qr_api\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Docx4jV11Example">
+    <configuration name="Docx4jV11Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.qr.Docx4jV11Example" />
+      <module name="qr-api-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QrApiJavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="qr-api-java" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.qr.QrApiJavaApplication" />
@@ -32,6 +120,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Docx4jV11Example" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,6 +135,8 @@
       <updated>1743146886372</updated>
       <workItem from="1743146889868" duration="769000" />
       <workItem from="1743282808594" duration="6000" />
+      <workItem from="1744381565260" duration="1612000" />
+      <workItem from="1748122084658" duration="12325000" />
     </task>
     <servers />
   </component>
@@ -49,38 +144,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1860" height="276" key="GridCell.Tab.0.bottom" timestamp="1743148751874">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1748179142163">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1743148751874" />
-    <state width="1860" height="276" key="GridCell.Tab.0.center" timestamp="1743148751873">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1748179142163" />
+    <state width="380" height="466" key="DebuggerActiveHint" timestamp="1748208189259">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1743148751873" />
-    <state width="1860" height="276" key="GridCell.Tab.0.left" timestamp="1743148751873">
+    <state width="380" height="466" key="DebuggerActiveHint/0.0.1920.1032@0.0.1920.1032" timestamp="1748208189259" />
+    <state width="1877" height="63" key="GridCell.Tab.0.bottom" timestamp="1748211747973">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1743148751873" />
-    <state width="1860" height="276" key="GridCell.Tab.0.right" timestamp="1743148751873">
+    <state width="1877" height="63" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1748211747973" />
+    <state width="1877" height="63" key="GridCell.Tab.0.center" timestamp="1748211747973">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1743148751873" />
-    <state width="1860" height="341" key="GridCell.Tab.1.bottom" timestamp="1743148751868">
+    <state width="1877" height="63" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1748211747973" />
+    <state width="1877" height="63" key="GridCell.Tab.0.left" timestamp="1748211747973">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1860" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1743148751868" />
-    <state width="1860" height="341" key="GridCell.Tab.1.center" timestamp="1743148751868">
+    <state width="1877" height="63" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1748211747973" />
+    <state width="1877" height="63" key="GridCell.Tab.0.right" timestamp="1748211747973">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1860" height="341" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1743148751868" />
-    <state width="1860" height="341" key="GridCell.Tab.1.left" timestamp="1743148751868">
+    <state width="1877" height="63" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1748211747973" />
+    <state width="1877" height="63" key="GridCell.Tab.1.bottom" timestamp="1748211747862">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1860" height="341" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1743148751868" />
-    <state width="1860" height="341" key="GridCell.Tab.1.right" timestamp="1743148751868">
+    <state width="1877" height="63" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1748211747862" />
+    <state width="1877" height="63" key="GridCell.Tab.1.center" timestamp="1748211747862">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1860" height="341" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1743148751868" />
+    <state width="1877" height="63" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1748211747862" />
+    <state width="1877" height="63" key="GridCell.Tab.1.left" timestamp="1748211747862">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="63" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1748211747862" />
+    <state width="1877" height="63" key="GridCell.Tab.1.right" timestamp="1748211747862">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="63" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1748211747862" />
     <state width="1860" height="341" key="GridCell.Tab.2.bottom" timestamp="1743148751868">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -97,5 +200,17 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1860" height="341" key="GridCell.Tab.2.right/0.0.1920.1032@0.0.1920.1032" timestamp="1743148751868" />
+    <state x="540" y="255" key="IDE.errors.dialog" timestamp="1748129157840">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="540" y="255" key="IDE.errors.dialog/0.0.1920.1032@0.0.1920.1032" timestamp="1748129157840" />
+    <state x="463" y="162" key="SettingsEditor" timestamp="1748178857380">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="463" y="162" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1748178857380" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1748179014916">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1748179014916" />
   </component>
 </project>
